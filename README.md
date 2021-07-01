@@ -1,7 +1,7 @@
 # Todo List App
 A simple full-stack todo list app
 
-I wanted to try out some technologies I haven't used before (GraphQL/Apollo Client, Material UI (in the context of React), React Context API) by building a simple app. The application is full-stack and updates to the list are automatically persisted in the Database.
+I wanted to try out some technologies I haven't used before (GraphQL/Apollo Client, Material UI for React, React Context API) by building a simple app. The application is full-stack and updates to the list are automatically persisted in the Database.
 
 Technologies Used: React (with functional components & hooks), Material UI, Context API, GraphQL, Apollo Client, NodeJS, Express, MySQL
 
