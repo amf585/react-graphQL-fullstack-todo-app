@@ -1,0 +1,18 @@
+.app__container {
+  background-color: #1d2026;
+  color: white;
+  display: grid;
+  min-height: 100vh;
+  place-content: center;
+  text-align: center;
+
+  ul {
+    background-color: #282c34;
+    margin: 1rem 0;
+    padding: 0.5rem;
+  }
+
+  .completed-task {
+    text-decoration: line-through;
+  }
+}
