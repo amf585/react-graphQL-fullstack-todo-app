@@ -21,4 +21,4 @@ To run locally:
 
 
 7. Start server - in ```root``` run ```npm run start``` (http://localhost:4000)
-8. Start client - in ```client/``` run ```npm run start``` (http://localhost:3000/)
+8. Start client - in ```client/``` run ```npm run start``` (http://localhost:3000)
